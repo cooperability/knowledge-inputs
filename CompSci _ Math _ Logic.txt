@@ -792,3 +792,101 @@ Sebastian Thrun, Kitty Hawk, Waymo, Udacity</div>
 <div>Last chapter - concerns
 Sales force ceo Marc benioff - Facebook is the new cigarettes, badly needs regulation
 China is going cashless, its facial recognition and tracking systems are aided by Megvii</div>"	arvr book futurology history nonfiction
+kPDnCfYOI}	Basic	CompSci / Math / Logic	Rust	"<ul>
+<li>[ ]  Superior to C++ and C in being a modern, low-level, guaranteed memory-safe and memory-efficient systems programming language
+<ul>
+<li>[ ]  Rich type system and ownership model</li>
+<li>[ ]  Chromium project report vulnerabilities, plus Microsoft: 70% of high security issues are memory safety problems</li>
+<li>[ ]  Even world’s best teams have C/C++ security issues</li>
+<li>[ ]  Rust is very strict about space usage features, has no null types due to its rich type system, and no exceptions</li>
+<li>[ ]  Modern package manager called cargo, like npm for java but better</li>
+<li>[ ]  If your code compiles, it’s data race free</li>
+</ul>
+</li>
+<li>[ ]  Fkn git repos by default, nice package manager in cargo</li></ul>"	Example formula language
+yA9{yW*K$I	Basic	CompSci / Math / Logic	Mark Weiser - The Computer for the 21st Century	"<div>Vishwanath</div>
+<div>""The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.""</div>
+<div>Writing freed information from memory; ubiquitous in industrialized countries
+-Personal computers ""cannot truly make computing an integral, invisible part of the way
+people live their lives. Therefore we are trying to conceive a new way of thinking about computers in the world, one that takes into account the natural human environment and allows the computers themselves to vanish into the background.""</div>
+<div>""Whenever people learn something sufficiently well, they cease to be aware of it.""
+When we are free to use tools without thinking, we can focus beyond them on new goals.</div>
+<div>""Carrying a super-laptop is like owning just one very important book. Customizing this book, even writing millions of other books, does not begin to capture the real power of literacy""</div>
+<div>""Although it may have its purpose in allowing people to explore realms otherwise inaccessible -- the insides of cells, the surfaces of distant planets, the information web of complex databases -- virtual reality is only a map, not a territory. It excludes desks, offices, other people not wearing goggles and body suits, weather, grass, trees, walks, chance encounters and in general the infinite richness of the universe. Virtual reality focuses an enormous apparatus on simulating the world rather than on invisibly enhancing the world that already exists.""</div>
+<div>""Little is more basic to human perception than physical juxtaposition, and
+so ubiquitous computers must know where they are.""</div>
+<div>""Our goals for initially deploying the hardware of embodied virtuality: hundreds of computers per room.""</div>
+<div>""No revolution in artificial intelligence is needed--just the proper imbedding of computers into the everday world. The automatic diary shows how such a simple thing as knowing where people are can yield complex dividends: meetings, for example, consist of several people spending time in the same room, and the subject of a meeting is most likely the files called up on that room's display screen while the people are there.""</div>
+<h2>PADS - an antidote to windows</h2>
+<div>""scrap computers"" that can be grabbed and used anywhere: they have no individualized identity or importance
+who would ever use a 9"" by 11"" desktop? use a real one with scrap comps
+yard-size displays serve a number of purposes</div>
+<div>Required tech:</div>
+<ol>
+<li>cheap, low-power computers with equally convenient displays</li>
+<li>a network that ties them all together</li>
+<li>software systems implementing ubiquitous applications</li>
+</ol>
+<div>Current trends: first requirement met, better info management is there
+For a computer to match a whiteboard in usefulness, it must be viewable from across the room
+""engineers must develop new communication protocols that
+explicitly recognize the concept of machines that move in physical space""
+""Present technologies would require a mobile device to have three different network connections: tiny range wireless, long range wireless, and very high speed wired. A single kind of network connection that can somehow serve all three functions has yet to be invented.""</div>
+<h2>A futuristic utopia with spatial computers</h2>
+<div>computers track bio data to administer therapy (wakening, coffee, etc)
+location tracking obviates security footage while increasing security
+Even within houses, these systems could give us data about one another WITHOUT US HAVING TO SWITCH ROOMS OOOOOOOOO
+-Actually revolutionary though: objects which find themselves
+Avoiding traffic &amp; optimizing time, definitely</div>
+<div>He believes full security is impossible - ""computers built according to Morris's rule would not attempt to be utterly proof against cracker, but they would be impossible to enter without leaving the digital equivalent of fingerprints.""</div>
+<div>""By pushing computers into the background, embodied virtuality will make individuals more aware of the people on the other ends of their computer links.""
+""Machines that fit the human environment, instead of
+forcing humans to enter theirs, will make using a computer as refreshing as taking a walk in the woods.""</div>"	futurology history internet interpersonal
+DeKGtSbApT	Basic	CompSci / Math / Logic	Mozilla - Responsibility for Tech Workers	"<h2>Tech/Ethics Cases throughout history</h2>
+<div>1969 - Computer People for Peace petitions ACM to oppose Vietnam War, combat tech discrimination &amp; protect privacy
+1990-SVTC Toxic Material Distribution
+1990-SEIU Janitorial Union Drives
+Poor training of subcontracted workers at Time Warner Cable
+Against Google dev for Pentagon
+2019-#NoTechForICE
+2019-Amazon largest walkout for sustainability</div>
+<h2>Why is it all converging now?</h2>
+<ul>
+<li>VC model incentivizes negative, growth-at-all-costs behavior
+-Publicly listed companies are more accountable
+-Decision making is more transparent at startups, but companies are more likely to be in crunch</li>
+</ul>
+<h2>What do?</h2>
+<ul>
+<li>Be proactive about building your relationships
+-Work across teams &amp; with impacted companies</li></ul>"	futurology history internet interpersonal
+yFBUKMj06f	Basic	CompSci / Math / Logic	New America - Unemployment Insurance Inequality	"<div><ul><li>Less than one in 5 black workers and about one in 6 laying workers can work remotely
+Legislators can choose to either increase business tax or slash benefits - usually the latter under business pressure
+36 to 27% receiving benefits during Great Recession
+White people receive benefits at 2x rate of black people
+Systems calibrated to prevent overcompensation
+State not accountable for underpayment
+Michigan integrated data automated system has 93% inaccuracy determining unemployment eligibility
+Names like Brazil:</li><li>“A first or last name that is ""too long"" can get truncated in any of the dozen government computers. At that point, it will fail automatic name matching and you go into the manual process where few claims ever come out alive.”
+“Alternate ‘Anglicized’ first names are common in some ethnic groups—a real observed example is birth certificate says Graciela, driver's license says Grace. This will fail the automatic match, and the human reviewer will usually reject it too.”
+Similarly, there were many examples of Vietnamese names not ""matching"" official records because of spaces between names, nicknames, and/or inconsistency of which portions of the name were shoehorned into first-middle-last name fields.</li><li>Instead of focusing on creating fraud where it doesn’t exist, a state’s mission should be to make systems easy-to-use for eligible applicants and to identify fraud within a greater context of accessibility. This includes improving the user experience, using plain language, reducing access barriers for workers with disabilities, language, or literacy limitations, and prioritizing the needs of applicants—especially during this critical time.</li><li>UI—you can’t refuse to work or quit a job in order to collect unemployment.</li><li>Workers, in fact, are told they will face financial penalties if they claim benefits that they’re not qualified to receive.</li><li>Handouts DO NOT create a disincentive to work</li><li>Among “the 10 states where fewer than 15 percent of unemployed people received benefits in March, seven were in the South.”</li><li>Black Rural South will see negative 9 percent job growth over the next decade.</li><li>According to Pew, 25 percent of Hispanic and 23 percent of Black adults say they are “smartphone only” internet users—someone who doesn’t have broadband service in their home but owns a smartphone, such as an Android, iPhone, or Galaxy smartphone. The share of low-wage workers who rely on their smartphones for online access has roughly doubled since 2013.</li><li>State employees, including the Governor, should go through the process of applying for UI so that they can experience firsthand what applicants go through when applying.
+States should offer multiple ways to apply, including options that do not require internet access or a computer
+States websites and application processes must be 508 compliant and fully usable for members of the disability community
+Websites and applications must be mobile-responsive
+Content should be written in plain language and in multiple languages
+Processes, documentation, and requirements should be clear and concise
+An applicants’ claim status should be clear and appeals should be easy to file
+Sites should autosave applications during the process and warn users when a session will end
+States should design systems with users and get their feedback through usability testing
+It should be easy to speak to a human that can provide clear instructions and help, whether on the phone, in person, or via chat</li><li>Businesses should consider creating work-sharing programs that would allow employers to spread layoffs across their entire workforce instead of laying some people off entirely, while supplementing the remainder of workers’ wages through UI. As companies begin rehiring, they should be incentivized to notify former employees first, giving those workers an opportunity to apply for those jobs while also decreasing training costs for the business, as former employees will be familiar with company operations. State policies, which often benefit employers over employees, could also be modified to better serve workers —notifying them when a former employer has started rehiring. Finally, the federal government should ensure that all states provide unemployment benefits for at least 26 weeks, long enough to cover the average length of unemployment periods for all workers, especially workers of color.</li><li><a href=""https://www.newamerica.org/public-interest-technology/reports/unpacking-inequities-unemployment-insurance/"">https://www.newamerica.org/public-interest-technology/reports/unpacking-inequities-unemployment-insurance/</a></li></ul></div>
+
+
+
+
+
+
+
+
+
+
+"	economics history interpersonal sociology

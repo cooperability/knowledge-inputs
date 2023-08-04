@@ -104,7 +104,7 @@ Some things to remember about fluid and crystallized intelligence:
 </div>
 <div></div>
 <ul>
-<li>Both types of intelligence increase throughout childhood and adolescence.</li><li>Crystallized intelligence continues to grow throughout adulthood.</li><li>Many aspects of fluid intelligence peak in adolescence and begin to decline progressively beginning around age 30 or 40.</li></ul><div><a href=""https://www.verywellmind.com/fluid-intelligence-vs-crystallized-intelligence-2795004"">https://www.verywellmind.com/fluid-intelligence-vs-crystallized-intelligence-2795004</a><br></div></div>"	
+<li>Both types of intelligence increase throughout childhood and adolescence.</li><li>Crystallized intelligence continues to grow throughout adulthood.</li><li>Many aspects of fluid intelligence peak in adolescence and begin to decline progressively beginning around age 30 or 40.</li></ul><div><a href=""https://www.verywellmind.com/fluid-intelligence-vs-crystallized-intelligence-2795004"">https://www.verywellmind.com/fluid-intelligence-vs-crystallized-intelligence-2795004</a><br></div></div>"	behavior learning
 "HWD$%$#+z_"	Basic	Psych / Socio	Cooper &amp; Zubek (1958) - rats, restricted, normal, enriched	Enriched environments cause:<br>-increased synapses per neuron<br>-increased neurotransmitter availabilitty<br>-Increased hippocampus neurons<br>-increased brain weight and size	
 q4)Z/<z$<Y	Basic	Psych / Socio	Carol Dweck - Growth vs. Fixed mindset	Fixed - intelligence is a trait which cannot change<br>Growth - intelligence can change thru effort &amp; experiences	
 swy:!hJKVs	Basic	Psych / Socio	Stereotype Threat (Claude Steele)	psychological burden caused by concern that one's performance/behavior might confirm a negative stereotype about one's group<br><br>To combat:<br>consider ex/implicit cues about physical space, role models, critical mass<br>promote growth mindset; attribute difficulties to task	
@@ -2266,7 +2266,27 @@ JVsq|nA!V8	Basic	Psych / Socio	Romantic Relationships &amp; Happiness	"<ul>
 -give your partner the benefit of the doubt, question your reasons for resenting or mistrusting them
 -You can work through anything as not as you are not destroying yourselves or each other
 -write down why you fell in love and read it every year on your anniversary
-<a href=""https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/""></a><a href=""https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/"">https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/</a></li></ol><div><br></div><div><br></div><div>Redflags</div><div><ul><li>Textbook Manipulative/Control behaviors:</li><ul><li>Playing with someone's self-confidence, or trying to break it down</li></ul><li>So, no more bots? How’s a brother to get any matches now?</li></ul></div>"	aging happiness love marriage psychology sociology
+<a href=""https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/""></a><a href=""https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/"">https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/</a></li></ol><div><br></div><div>
+<ul>
+<li>Conflict, confrontation &amp; vulnerability should be calm and easy.</li>
+<li>Your self-worth and relationship with yourself trains your partner in how to treat you</li>
+<li>Your partner should make you love yourself more</li>
+<li>If you are a selfish lover, you will attract selfish lovers - relationships are mirrors in that way</li>
+</ul>
+<div>##Infatuation</div>
+<ul>
+<li>rapid devolution into indifference, neglect, contempt</li>
+</ul>
+<div>##Loneliness
+symptoms: Irritative, depressed, self-centered</div>
+<div>##Unhappiness
+symptoms: sudden sleep or energy flux; irritability; poor communication &amp; follow-through; social reclusion &amp; escapism</div>
+
+<h2>#Interpersonal</h2>
+<div>##End</div>
+<ul>
+<li>It's not your responsibility to fight someone in order to make them happy and fulfilled. In the long haul you'll suffer for having a dependent partner
+-Redirection of Blame, Cowardice, Selfishness, Aloofness, Parasitism, Favoritism, Permits Disrespect, Fixes before Listens</li></ul></div><div><br></div><div><br></div><div>Redflags</div><div><ul><li>Textbook Manipulative/Control behaviors:</li><ul><li>Playing with someone's self-confidence, or trying to break it down</li></ul><li>So, no more bots? How’s a brother to get any matches now?</li></ul></div>"	aging happiness love marriage psychology sociology
 O2]sk*h>lH	Basic	Psych / Socio	Unfu*k Your Brain Book	"<div>Trauma history is #1 factor
 Focus on why and you will find your hire - keep with it
 Notice and note your own reactions and be honest with yourself
@@ -2697,7 +2717,57 @@ organizations by simplifying access to forecasting data, tools,
 projects, and APIs</li><li>Building
  a world-class team dedicated to forecasting AI timelines and impacts, 
 including hybrid ML engineering and forecasting roles</li><li>Careers:&nbsp;<a href=""https://apply.workable.com/metaculus/"">https://apply.workable.com/metaculus/</a></li></ul></ul>"	
-dX9l%gI<:d	Basic	Psych / Socio	Storytelling	<div><ol><li>Universally compelling archetypes</li><ol><li>Unlikely Heroes, underdogs if possible</li><li>Unambiguous evil, and its defeat</li><li>clearly defined stakes</li><li>understandable but not predictable good/bad outcomes</li></ol></ol></div><br>Elements of deep character arcs:<br><ol><li>Trust &amp; betrayal</li><ol><li>Implicit/Instinctive trust</li><li>Explicit/calculated trust</li></ol><li>Influence</li><ol><li>Subconsciously influenced vs. consciously</li><li>Deliberately influenced vs. unintentionally vs. accidentally</li></ol></ol>	marketing narrative persuasion
+dX9l%gI<:d	Basic	Psych / Socio	Storytelling	"<div><ol><li>Universally compelling archetypes</li><ol><li>Unlikely Heroes, underdogs if possible</li><li>Unambiguous evil, and its defeat</li><li>clearly defined stakes</li><li>understandable but not predictable good/bad outcomes</li></ol></ol></div><br>Elements of deep character arcs:<br><ol><li>Trust &amp; betrayal</li><ol><li>Implicit/Instinctive trust</li><li>Explicit/calculated trust</li></ol><li>Influence</li><ol><li>Subconsciously influenced vs. consciously</li><li>Deliberately influenced vs. unintentionally vs. accidentally</li></ol></ol><div><br></div><div>Environmental Storytelling:</div><div><div>2 pillars of environmental storytelling: context &amp; emotional intent
+what are you trying to get someone to feel?
+-put some game in the loading screen
+-Context is in staying grounded, familiar, relatable, intentional with the narrative
+-start lightly by building intrigue, then subvert that intrigue into fear &amp; pervade their attraction.
+-Tension should be built from the moment the experience starts; here, it's felt as you walk down the street toward the looming building
+-Disney is famous for the preshow</div>
+<div><a href=""https://www.polygon.com/2020/6/8/21272212/tower-of-terror-disney-world-building-environmental-storytelling-games?utm_campaign=polygon&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter"">https://www.polygon.com/2020/6/8/21272212/tower-of-terror-disney-world-building-environmental-storytelling-games?utm_campaign=polygon&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</a></div></div>"	bias marketing narrative perception persuasion
+zz;+:Pb2/N	Basic	Psych / Socio	First Dates in digital dating	"<div><span style=""font-family: -apple-system; font-size: 16px;"">-Reciprocity, validation and understanding must be continuous, rather than called upon in dire or special times.&nbsp;</span><br></div><div><span style=""font-family: -apple-system; font-size: 16px;"">-Sensitivity can be an empathetic reaction to another person’s boundaries. We can owe others and ourselves this.</span></div><div><span style=""font-family: -apple-system; font-size: 16px;"">-The best first dates Involve unintentional authenticity, slowly+safely letting your guard down with someone else.</span></div><div><span style=""font-family: -apple-system; font-size: 16px;"">-Try to realistically explain constraints up front. Openness and vulnerability quell impostor syndrome anxieties.</span></div><div><span style=""font-family: -apple-system; font-size: 16px;"">-No matter how against capitalism you are, you’ll still be called upon to play the status symbol game and expected to play humbly. We live in a world of relentless judgement and scrutiny - get your cards in order and play the best you can from what you’ve been dealt.</span></div><div>-People are willing to bend the truth all the time so long as they’re never caught in an outright lie.</div><div><br></div><div>First dates Best to worst:</div><div>Drinks + games of pool</div><div>Roof Climbing/low-stakes trespassing</div><div>Ice skating</div><div>Museum</div><div>Touring Open Houses pretending to be a couple<br></div><div>Food alone</div><div><br></div><div><div>##E-Dating
+On Hinge, the top 10% of men receive nearly 60% of the “likes” — the comparable figure for women is 45%. The bottom 80% of male Tinder users, based on percentage of likes received, are competing for the bottom 22% of women. If it were a country, Tinder would be among the most unequal in the world.</div>
+
+<div>##Charm</div>
+<ol>
+<li>Undivided, genuine attention, Admiration, &amp; Curiosity for the other</li>
+<li>Talk about themselves only when asked to</li>
+<li>Reliable follow through &amp; Proactively, joyously helping others</li>
+<li>Fearlessness and tactfulness in facing vulnerability</li>
+<li>Don't say anything to a stranger that you wouldn't want your burly prison cellmate to say to you</li>
+<li>confidence means a bulletproof attitude, not that things must go well but that we must be ok afterwards regardless</li>
+<li>spontaneity and carefreeness is seductive</li>
+</ol>
+
+<ul>
+<li>Reaching out to people on online apps
+</li><ul>
+<li>99.9% I have to break the ice</li>
+<li>80% are a 0-2 two message interaction</li>
+<li>18% unmatch within 5 minutes.</li>
+<li>2% result in a chat. Of those 2%, maybe 1/20 result in a date</li>
+</ul>
+</ul><div><div>##Don't be</div>
+<div>prejudgemental, presumptuous</div>
+<div>##First Night
+—-
+“Hey I’m part East Asian too, wanna swap guesses as to where?”
+Messages:
+“I liked that you weren’t angry or scolding if and when I messed up, and that you asked questions like you genuinely wanted to know me.”
+and I was reconsidering when we were first talking but I really knew what I wanted when we started playing pool”</div>
+<div>“You’re the first white man I’ve met that gives people space to talk.”</div>
+<div><strong>Compliments</strong>
+“I like how your earrings match your belt and shoes. You’ve made the colors work so well together.”
+“Your hair looks amazing, I bet it took ages to get it that smooth/prepped up/flowy etc.”
+“I adore your makeup — it’s the perfect mix between chic and natural. It’s hard to do, so props for that.”</div>
+<div>Frame complements in terms of effort – shows empathy and intelligence; allows rapid exposition.
+Humans always want what they can’t have.
+Don’t always just let someone know that they have you.
+Keep complements ambiguous.
+Make confident girls feel shy and shy girls feel confident.
+Hot people often have biggest insecurities
+Compliments of looks should be specific</div>
+<div>Say it because you mean it, not because you expect something.</div></div></div><div><br></div>"	infoage interpersonal love
 FtYB);a_!{	Basic	Psych / Socio	Intentionality in Time Management	"<div>Make more money as a garbage substitute for the impossibility of making more time</div>
 <div>Time management is essential for emotional management</div>
 <ol>
@@ -2722,7 +2792,35 @@ FtYB);a_!{	Basic	Psych / Socio	Intentionality in Time Management	"<div>Make more
 <div>It’s an earned privilege to keep your mind open to new monetary possibilities.</div><div><br></div><div>""How to Be More Intentional with Time"" by Laura Vanderkam on Audible</div>"	audible intention productivity
 "L?H_byxsE#"	Basic	Psych / Socio	Leadership	"<div>Understand the differences between individuals’ working experiences, even if they work in the same role</div>
 <div>Leaders ask their supporters what they need and provide it, it’s not a one way relationship - “Success is not a solo sport”<br></div><div>Followers look to leaders for direction, confidence, decisiveness, courage, and relief from stress.</div><div>""What it Means to Be a Courageous Leader"" by Minda Harts on Audible</div>"	audible intention persuasion productivity sociology
-F3I|+NI9Mx	Basic	Psych / Socio	Manage Stress at Work	"<div>-Learn how to say no and control your self expectations</div>
+F3I|+NI9Mx	Basic	Psych / Socio	STRESS MANAGEMENT	"<div><b>MANAGING CALM</b></div><div><ul>
+<li>90% of successful people can stay calm in times of stress
+-prolonged stress causes the area of the brain that governs self-control to degenerate
+-prolonged stress suppresses the brain's ability to create new cells
+-stress increases risk of disease
+METHODS:</li>
+</ul>
+<ol>
+<li>Appreciate what you have
+-improve mood, energy and physical well being</li>
+<li>Avoid asking ""What if?""</li>
+<li>Stay Positive
+-helps make stress intermittent</li>
+<li>disconnect and take time off</li>
+<li>limit caffeine intake
+-triggers adrenaline/stress</li>
+<li>Sleep</li>
+<li>squash negative self talk
+-write down negative thoughts you have and ask others if they're true</li>
+<li>reframe your perspective
+-don't get caught in the ""everything is wrong"" perspective</li>
+<li>Breathe</li>
+<li>use your support system
+-recognize your weaknesses and emotions and get help</li></ol></div><div><br></div><div><b>REFRAME/RESTRUCTURE STRESS</b><br><ul><ol><li><div style=""display: inline !important;"">Positive executive presence is the right combination between warmth and competence.</div></li></ol></ul><div style=""display: inline !important;""><ol><li><div style=""display: inline !important;"">Four questions to outline your career goals:
+-Values: What do I like to do? What brings out my best?
+-Vision: How do I want to grow? What do I want to create for myself?
+-Competency: What do I bring to the table? What value do I have and how should this grow over time? What do I need to get to the next level?
+-Relationships: Who’s supporting me? Who’s in my posse? Who gives me resilience and validation? And who can I learn from?</div></li><li>Chamine describes five attributes, or powers, of each person’s inner Sage: the power to empathize, explore, innovate, navigate, and activate.
+-Take it one step at a time in the right direction</li><li>Reframe Stress</li><ol><li>to view your body’s stress response as helpful, not debilitating – for example, to view stress as energy you can use</li><li>to view yourself as able to handle, and even learn and grow from, the stress in your life</li><li>to view stress as something that everyone deals with, and not something that proves how uniquely screwed up you or your life is.</li></ol><li>Stress is most likely to be harmful when the following conditions are present: it feels against your will, out of your control and utterly devoid of meaning. If you can change any of these conditions – by finding some meaning in it – you can reduce the harmful effects of stress.</li><li>Restructure time</li><ol><li>Mornings, when our focus and brain power is greatest, should be set aside for ""analytic tasks, those that require heads-down focus and attention,"" Pink instructs.</li><li>When your energy levels start to slump after lunch, switch over to routine administrative tasks and other assorted donkey work.</li><li>Then, expect another burst of energy in the late afternoon and early evening that's ideal for creative work.</li></ol></ol></div></div><div><br></div><div><br></div><div><b>MANAGE STRESS AT WORK (AUDIBLE)</b></div><div>-Learn how to say no and control your self expectations</div>
 <div><br></div>
 <div>Some degree of stress is healthy to make us feel engaged and in it</div>
 <div>Stress means life-threatening behavior, the fight or flight response.</div>
@@ -2814,3 +2912,97 @@ AD*>^0R&&2	Basic	Psych / Socio	SPEAKING	"<div>Mindfulness: meditation, ritual, p
 <div>Let persuasiveness become your way of life, a disciplined practice rather than an easy hobby</div>"	emotion interpersonal persuasion psychology
 "E6P#Gz8NDI"	Basic	Psych / Socio	90% of people worldwide are biased against women	"<div><ul><li>Survey from 75 countries covering 81% of world's population:&nbsp;</li><ul><li>-91% of men and 86% of women hold at least one clear bias against women in politics, economics, education or physical integrity&nbsp;</li><li>-Lowest bias countries: Andorra, Australia, Netherlands, New Zealand, Norway, Sweden&nbsp;</li><li>-43% of Americans and 48% of Canadians have NO bias&nbsp;</li><li>-about half think men make better leaders, or have more of a right to a certain job than women&nbsp;</li><li>-30% believe domestic abuse is justifiable</li></ul></ul></div>
 <div><a href=""http://hdr.undp.org/en/GSNI"">http://hdr.undp.org/en/GSNI</a></div>"	bias emotion interpersonal psychology
+"E#>B*1o(m="	Basic	Psych / Socio	Disinformation, Veracity	"<div>“Pre-bunking” for freer and more correct information by pushing users to commit fraud &amp; understand how to spot it<br></div><div>The game draws on an inoculation metaphor, where preemptively exposing, warning, and familiarising people with the strategies used in the production of fake news helps confer cognitive immunity when exposed to real misinformation. We conducted a large-scale evaluation of the game with N = 15,000 participants in a pre-post gameplay design. We provide initial evidence that people’s ability to spot and resist misinformation improves after gameplay, irrespective of education, age, political ideology, and cognitive style.</div>
+<div>That found that even a single play of the game reduce susceptibility on average to fake news by 21%, and the effect was sustained for at least 3 months. The usual caveats apply – this was one study, although with a large N, and the authors acknowledge a number of limitations. But the results are in line with existing research.</div>
+<div><a href=""https://theness.com/neurologicablog/index.php/pre-bunking/"">https://theness.com/neurologicablog/index.php/pre-bunking/</a></div>"	behavior bias infoage persuasion
+iB)jDeM.Of	Basic	Psych / Socio	Masculinity	"Notes from the book King, Warrior, Magician, Lover (take it with a grain of salt lol)<br><div>The current crisis of masculinity &amp; lack of a definitive mature masculine ethos in the United States and Western Europe can be attributed to two main factors:
+The death of ritual processes for initiating boys into manhood; pseudo-initiations or mere ceremonials take their place
+""Patriarchy is the expression of the immature masculine.""
+""Boys fear women. They also fear real men.""
+Death is a vital part of any initiatory ritual.
+""Boys who are too bound to the mother get hurt.""
+""The 'death' of the hero in the life of a boy (or man) really means that he has finally encountered his limitations. He has met the enemy, and the enemy is himself.""
+We access the mature masculine through true humility. True humility consists of two things: knowing our limitations and getting the help we need.</div>
+<h2>King</h2>
+<div>Leadership &amp; stewardship
+""This is the clear decision, after careful deliberation, that cuts through the mess in the family, at work, in the nation, in the world.""
+All mature masculine energies require healthy distance and orbit: the star gives you life, but you are not the star</div>
+<h2>Warrior</h2>
+<div>Aggressiveness, determination, drive to win.
+The warrior is incapable of intimacy and perceives women as objects
+Perfectionism, compulsion, the urge to act
+Drive to ignore pain for worthwhile goals
+Skill &amp; speed during direct confrontations with people, decisions, tasks</div>
+<h2>Magician</h2>
+<div>Knowledge, technology, mysticism and storytelling
+Seer of evil, keeper of rationality and logic
+Psychotherapy, cleric
+Awareness, insight and perception
+Introversion, detachment, objectivity
+Bipolar shadow: manipulation, deception, fraud
+Must be mediated by Kings generativity and generosity, warrior's decisive and courageous action, and lover's deep and convinced connectedness.</div>
+<h2>Lover</h2>
+<div>Aestheticism, sensitivity, compassion
+Mediates between love and duty
+Opposes boundaries/containment/order/discipline like the other three archetypes
+Bipolar shadow: the addict, who becomes too enthralled with the senses and loses control of his own fate (the idealist)
+Passive shadow: putting something on a pedestal so high that you give up on it</div>
+<div>Every person lives under the curse of infantilism; it's not a question of IF immature energies are manifesting but HOW</div>"	behavior bias book interpersonal sociology
+"E<3p#q{ZH|"	Basic	Psych / Socio	Stereotype Threat in College	"<div>Stereotype threat - feeling compelled to avoid situations which might make others assume a stereotype of you</div>
+<div>""George Herbert Mead's idea of the ""looking-glass self,"" social psychology has assumed that one's self-image derives in large part from how one is viewed by others—family, school, and the broader society. When those views are negative, people may internalize them, resulting in lower self-esteem—or self-hatred, as it has been called.""</div>
+<div>""different kinds of students may require different pedagogies for improvement.""</div>
+<div>""underperformance appears to be rooted less in self-doubt than in social mistrust""</div>
+<div>""Our research bears a practical message: even though the stereotypes held by the larger society may be difficult to change, it is possible to create niches in which negative stereotypes are not felt to apply. In specific classrooms, within specific programs, even in the climate of entire schools, it is possible to weaken a group's sense of being threatened by negative stereotypes, to allow its members a trust that would otherwise be difficult to sustain.""</div>
+<div><a href=""https://www.theatlantic.com/magazine/archive/1999/08/thin-ice-stereotype-threat-and-black-college-students/304663/"">https://www.theatlantic.com/magazine/archive/1999/08/thin-ice-stereotype-threat-and-black-college-students/304663/</a></div>"	article bias interpersonal perception psychology selfperception sociology
+dchu?H<-Qm	Basic	Psych / Socio	"William Gibson - The death of ""postalgia"" and future fatigue"	"<div>But in moments of profound social dislocation and upheaval, these stories stop making sense and we lose a sense of the future and how to prepare for it.</div>
+<div>This is what happened in many native American communities during colonialism. This is how Plenty Coups, the leader of the Crow people, described it: “When the buffalo went away the hearts of my people fell to the ground, and they could not lift them up again. After this nothing happened.”</div>
+<div>Gibson: “This new found state of No Future is, in my opinion, a very good thing … It indicates a kind of maturity, an understanding that every future is someone else’s past, every present is someone else’s future”.</div>
+<div><a href=""https://theconversation.com/sci-fi-author-william-gibson-how-future-fatigue-is-putting-people-off-the-22nd-century-130335"">https://theconversation.com/sci-fi-author-william-gibson-how-future-fatigue-is-putting-people-off-the-22nd-century-130335</a></div>"	economics futurology perception psychology
+L=Pjx.==KN	Basic	Psych / Socio	CAREER PSYCHOLOGY	"<div>Act your Wage
+""Can we match their (new) offer?"" --&gt; ""No, but if you can do better I will consider it.""</div>
+<div>There are officially 2,136 Chinese characters that the government through its education system considers fundamental to living in Japanese society. This is also recommended as the number of characters one should know upon graduating high school.</div>
+<div>The bare minimum number of characters recommended to function in society is 1,607. This is the equivalent amount of characters to what a middle school graduate would know.</div>
+<div>##Course
+-(<a href=""https://www.isbnservices.com/product/basic-isbn-number-barcode/?gclid=Cj0KCQjwhtT1BRCiARIsAGlY51LOFlRrh_gJJyi9S6YDFgsEW_keHiZEV5XuoT2tm7rQcIFvnarPanIaAn5REALw_wcB"">https://www.isbnservices.com/product/basic-isbn-number-barcode/?gclid=Cj0KCQjwhtT1BRCiARIsAGlY51LOFlRrh_gJJyi9S6YDFgsEW_keHiZEV5XuoT2tm7rQcIFvnarPanIaAn5REALw_wcB</a>)
+-early access frame: content still being finished, audience can already access
+-8mos to 1yr of full-time indie-hacking work on only his course and blog:</div>
+<ul>
+<li>Articles, videos, in-browser challenges, real-world projects, minigames
+-Participant registration: 1 week
+-$129 Early bird, $349 normal, hoping to sell 380 copies for $50k total to an audience of Twitter 31k and email subscribers 28k
+-amped blogging schedule, wrote a book and gave it away free to newsletter joiners
+-animated opt-in newsletter signup at end
+<a href=""https://www.joshwcomeau.com/"">https://www.joshwcomeau.com/</a></li>
+</ul>
+<div>Customers don't know what you want until you put it in front of them.
+We don't sell products, we sell status and experience. We sell 1,000 songs in your pocket.
+Eliminate obstacles by scoping down, not up.
+Hone skills by focusing in, not out.</div>
+<div>Don't back yourself into a corner you can't get out of.
+It's ok to arrive in 30s with as little baggage as possible.
+You are paid by how expensive you are to replace - otherwise you are dislikable, removable in a downsizing
+If you want to make yourself indispensable to a single company, don't get caught holding the bag when they fall
+Stay crucial to those who have been crucial to you</div>
+<div><b>constructive discharge - your employer makes working conditions unbearable, forcing your resignation</b></div>
+<ul>
+<li>slow exclusions, ignoring, criticism, citations, overwhelming</li>
+<li>fully illegal to do this, voice your concerns and complaints loudly</li>
+<li>Consider facing it head-on and saying directly to HR, “This isn’t working. Let’s negotiate an appropriate departure package.”</li>
+</ul>
+<div>##Remote work
+stay communicative &amp; visible, don't work undercover, don't dodge responsibility</div>
+<div>##Affiliate Marketing - almost all affiliate products sold on twitter are found on gumroad.
+it's better without testimonials - look for places for live social proof of your product, demonstrating actual learning</div>
+<ul>
+<li>Buy a book/course. Choose one you loved. Contact the owner. Become an affiliate. Post what you learned as a Twitter Thread. Make the last tweet an affiliate link to the product. Then make another income stream that helps you earn money, so you can live with less stress and buy back your time.</li></ul><div><br></div><div><b>Audible - Building Trust to Build a Network, Tiffany Pham</b></div><div><div><ul><li>Be a giver, not an exploiter
+Establish yourself so you can help others as well as yourself</li><li>Know your own abilities well, hone them well and be able to apply them
+The best way to earn someone's support is to give it willingly when they need it</li><li>Share your contacts. helping others is never zero-sum
+attempt to always reciprocate instead of requesting anything
+the easiest, most important and toughest to earn accolade is a personal vouch
+don't namedrop - have a legitiimate reason to connect anyone you make aware of one another, and make sure they both stand to gain something from the knowledge
+maximize your network to maximize yourself
+even a newsletter is respectful and important for your contacts</li><li>Mogul partnered with the U.N. to serve women around the world</li><li>you'll never truly realize your goals - so get cracking</li></ul></div>
+
+
+
+</div>"	career interpersonal psychology
