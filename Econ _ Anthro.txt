@@ -509,3 +509,30 @@ u*:|V5T6gg	Basic	Econ / Anthro	Case Interview Secrets	"<div>Case interview secre
 <li>Competitive Landscape = Customers, Products, Client, Competitors</li>
 <li>New market segment value = total MV * segment fraction / comp. Scape</li>
 </ul></ul>"	business career economics formula
+LnPpX+jRHX	Basic	Econ / Anthro	Getting into Y Combinator	"<div><br></div><ol><li><div>Y combinator</div>
+<div>-this winning team met at Facebook, both went on to work at Twitter Google and ultimately one was director of US marketing at TikTok when he successfully applied to Y combinator</div>
+<div>-Founding team should have a HUSTLER, HACKER, and HIPSTER archetype to understand all business aspects</div>
+<div>Likable, charismatic</div>
+<div>AI is in vogue and could apply to any industry</div>
+<div>A few super traditional companies e.g.&nbsp;</div>
+<div>60% AI startups in the newest class</div>
+<div>In last two years, half of accepted were b2b saas</div>
+<div>1/6 were fintech</div>
+<div>1/8 were devtools</div>
+<div>1/10 were healthcare</div></li><li><div>Founder video is 60 seconds for your entire pitch and description, alongside your application.</div></li><li><div>Stripe was a fintech for devtools with a ton of integrations, and a YC baby</div></li><li><div><div>Delaware, Singapore, Cayman Islands are founder friendly jurisdictions</div>
+<div>If you incorporate elsewhere, you must do “the delaware flip”</div>
+<div>They force you to quit your full time job</div>
+<div>You have a long running community, a stripe alumni network which is super valuable</div>
+<div>“How do you differentiate?” Is a question you’ll need to answer several times</div>
+<div>They don’t directly connect you to others, but they provide an excuse to reach out to anyone in their network</div>
+<div>They want you to directly go out and sell your product, but they’re great help with lead generation</div>
+<div>Pulley does cap table management, competing with carta, and got several other YC companies to sign up</div>
+<div>Gusto is a YC company, tons provide micro services to one another</div>
+<div>They use mercury for banking, founder is a YC alum</div>
+<div>YC startup school helps a bit with self paced diy work, but doesn’t improve your chances of getting into the main YC programs</div>
+<div>50-58% of accepted startups are US-based</div>
+<div>What’s your approach to a cofounder dispute? How would you deal with a new competitive threat?</div>
+<div>On avg, in last 2 years, 55% of accepted companies had applied at least once before</div>
+<div>Demonstrated progress is a huge differentiator</div>
+<div>Network, cache, learning opportunity</div>
+<div>Standard deal values every startup at $1.8m</div></div></li></ol>"	career economics entrepreneur
