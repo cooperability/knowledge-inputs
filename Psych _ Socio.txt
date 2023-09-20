@@ -3049,3 +3049,97 @@ reasons: we'll get to market faster, they'll use best practices, and we
 can scale up/down quickly. The risk is that we lose context and 
 knowledge of any technical decisions when they leave, but we'll assign 
 one of our staff to do a comprehensive handover.""</div><div><br></div></div>"	career interpersonal persuasion
+p6+*k(+F5w	Basic	Psych / Socio	List of Cognitive Biases, from Wikipedia	"<table><tbody><tr><td><a href=""https://en.wikipedia.org/wiki/Fundamental_attribution_error"">Fundamental attribution error</a> (FAE, aka correspondence bias <sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-Baumeister-24"">[24]</a></sup>)
+</td>
+<td>Tendency to overemphasize personality-based explanations for 
+behaviors observed in others. At the same time, individuals 
+under-emphasize the role and power of situational influences on the same
+ behavior. Edward E. Jones and Victor A. Harris' (1967)<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-25"">[25]</a></sup>
+ classic study illustrates the FAE. Despite being made aware that the 
+target's speech direction (pro-Castro/anti-Castro) was assigned to the 
+writer, participants ignored the situational pressures and attributed 
+pro-Castro attitudes to the writer when the speech represented such 
+attitudes.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Implicit_stereotype"">Implicit bias</a> (aka implicit stereotype, unconscious bias)
+</td>
+<td>Tendency to attribute positive or negative qualities to a group of 
+individuals. It can be fully non-factual or be an abusive generalization
+ of a frequent trait in a group to all individuals of that group.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Priming_(psychology)"">Priming bias</a>
+</td>
+<td>Tendency to be influenced by the first presentation of an issue to 
+create our preconceived idea of it, which we then can adjust with later 
+information.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Confirmation_bias"">Confirmation bias</a>
+</td>
+<td>Tendency to search for or interpret information in a way that 
+confirms one's preconceptions, and discredit information that does not 
+support the initial opinion.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-26"">[26]</a></sup> Related to the concept of <a href=""https://en.wikipedia.org/wiki/Cognitive_dissonance"">cognitive dissonance</a>,
+ in that individuals may reduce inconsistency by searching for 
+information which reconfirms their views (Jermias, 2001, p.&nbsp;146).<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-27"">[27]</a></sup>
+</td></tr>
+<tr>
+<td>Affinity bias
+</td>
+<td>Tendency to be favorably biased toward people most like ourselves.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-28"">[28]</a></sup>
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Self-serving_bias"">Self-serving bias</a>
+</td>
+<td>Tendency to claim more responsibility for successes than for 
+failures. It may also manifest itself as a tendency for people to 
+evaluate ambiguous information in a way beneficial to their interests.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Belief_bias"">Belief bias</a>
+</td>
+<td>Tendency to evaluate the logical strength of an argument based on 
+current belief and perceived plausibility of the statement's conclusion.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Framing_effect_(psychology)"">Framing</a>
+</td>
+<td>Tendency to narrow the description of a situation in order to guide 
+to a selected conclusion. The same primer can be framed differently and 
+therefor lead to different conclusions.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Hindsight_bias"">Hindsight bias</a>
+</td>
+<td>Tendency to view past events as being predictable. Also called the ""I-knew-it-all-along"" effect.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Embodied_cognition"">Embodied cognition</a>
+</td>
+<td>Tendency to have selectivity in perception, attention, decision 
+making, and motivation based on the biological state of the body.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)"">Anchoring bias</a>
+</td>
+<td>The inability of people to make appropriate adjustments from a 
+starting point in response to a final answer. It can lead people to make
+ sub-optimal decisions. Anchoring affects decision making in <a href=""https://en.wikipedia.org/wiki/Negotiation"">negotiations</a>, <a href=""https://en.wikipedia.org/wiki/Medical_diagnosis"">medical diagnoses</a>, and <a href=""https://en.wikipedia.org/wiki/Sentence_(law)"">judicial sentencing</a>.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-29"">[29]</a></sup>
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Status_quo_bias"">Status quo bias</a>
+</td>
+<td>Tendency to hold to the current situation rather than an alternative situation, to avoid risk and loss (<a href=""https://en.wikipedia.org/wiki/Loss_aversion"">loss aversion</a>).<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-30"">[30]</a></sup> In status quo bias, a decision-maker has the increased propensity to choose an option because it is the default option or <a href=""https://en.wikipedia.org/wiki/Status_quo"">status quo</a>. Has been shown to affect various important economic decisions, for example, a choice of <a href=""https://en.wikipedia.org/wiki/Vehicle_insurance"">car insurance</a> or <a href=""https://en.wikipedia.org/wiki/Electric_utility"">electrical service</a>.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-31"">[31]</a></sup>
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Overconfidence_effect"">Overconfidence effect</a>
+</td>
+<td>Tendency to overly trust one's own capability to make correct 
+decisions. People tended to overrate their abilities and skills as 
+decision makers.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-32"">[32]</a></sup> See also the <a href=""https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect"">Dunning–Kruger effect</a>.
+</td></tr>
+<tr>
+<td><a href=""https://en.wikipedia.org/wiki/Physical_attractiveness_stereotype"">Physical attractiveness stereotype</a>
+</td>
+<td>The tendency to assume people who are <a href=""https://en.wikipedia.org/wiki/Physical_attractiveness"">physically attractive</a> also possess other desirable personality traits.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-33"">[33]</a></sup></td></tr></tbody></table>"	behavior bias perception truth
