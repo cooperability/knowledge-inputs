@@ -3143,3 +3143,10 @@ decision makers.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite
 <td><a href=""https://en.wikipedia.org/wiki/Physical_attractiveness_stereotype"">Physical attractiveness stereotype</a>
 </td>
 <td>The tendency to assume people who are <a href=""https://en.wikipedia.org/wiki/Physical_attractiveness"">physically attractive</a> also possess other desirable personality traits.<sup><a href=""https://en.wikipedia.org/wiki/Cognitive_bias#cite_note-33"">[33]</a></sup></td></tr></tbody></table>"	behavior bias perception truth
+"eO(#FfLwQ|"	Basic	Psych / Socio	Team Players: How Social Skills Improve Team Performance (2020)	"<div>Our second finding is that team players score significantly higher on the Reading the Mind in the Eyes Test<br></div>
+<div>(RMET), a well-established and psychometrically valid measure of social intelligence (Baron-Cohen et al.</div>
+<div>2001, Adams et al. 2010, Woolley et al. 2010, Baker et al. 2014, Engel et al. 2014). After controlling for</div>
+<div>task-specific skills, IQ does not predict whether someone is a good team player. The team player effect is</div>
+<div>also uncorrelated with gender, age, education, ethnicity and scores on the “Big 5” personality factors.</div>
+<div>Each of these tests was part of our pre-analysis plan, and we report all those results in the first part of the</div>
+<div>paper before moving on to exploratory analyses.</div><div><br></div><div><a href=""https://scholar.harvard.edu/files/ddeming/files/dw_teamplayers_may2020.pdf"">https://scholar.harvard.edu/files/ddeming/files/dw_teamplayers_may2020.pdf</a><br></div>"	behavior emotion empathy intelligence persuasion psychology sociology
